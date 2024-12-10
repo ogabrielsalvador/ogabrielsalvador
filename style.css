@@ -4,6 +4,16 @@ h3 {
     text-align: center;
 }
 
+.section {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.section a img {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
 a {
     text-decoration: none !important;
     color: inherit;

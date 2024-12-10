@@ -14,7 +14,7 @@
 
 ###
 
-<div>
+<div class="section">
     <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
         <img src="/images/csharp.png" alt="C# logo" height="40" />
     </a>
@@ -59,7 +59,7 @@
         <img src="/images/gitlab.svg" alt="gitlab logo" height="40" />
     </a>
 </div>
-<div>
+<div class="section">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="/images/angular.png" alt="Angular logo" height="40" />
     </a>
@@ -100,7 +100,7 @@
 ###
 
 <h3>Connect with me on LinkedIn:</h3>
-<div>
+<div class="section">
     <a href="https://linkedin.com/in/ogabrielsalvador" target="_blank">
         <img src="/images/linkedin.png" alt="LinkedIn logo" height="40" />
     </a>
