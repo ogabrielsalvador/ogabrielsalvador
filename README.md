@@ -12,12 +12,22 @@
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left">
-    <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
+    <p>
+      <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer">
         <img src="/images/csharp.png" alt="C# logo" height="40" />
-    </a> C#
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      </a>
+      <span>
+        C#
+      </span>
+    </p>
+    <p>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="/images/javascript.png" alt="JavaScript logo" height="40" />
-    </a> JavaScript
+      </a>
+      <span>
+        JavaScript
+      </span>
+    </p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="/images/python.png" alt="Python logo" height="40" />
     </a> Python
