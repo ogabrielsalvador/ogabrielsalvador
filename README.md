@@ -58,7 +58,8 @@
     <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
         <img src="/images/gitlab.svg" alt="gitlab logo" height="40" />
     </a>
-    <img width="10" />
+</div>
+<div>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="/images/angular.png" alt="Angular logo" height="40" />
     </a>
