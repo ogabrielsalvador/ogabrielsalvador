@@ -5,7 +5,7 @@
     <a href="https://github.com/ogabrielsalvador/github-readme-stats" target="_blank" rel="noreferrer">
         <img
           align="center"
-          src="https://github-readme-stats-ogabrielsalvador.vercel.app/api?username=ogabrielsalvador&show_icons=true&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_rank=true"
+          src="https://github-readme-stats-ogabrielsalvador.vercel.app/api?username=ogabrielsalvador&show_icons=true&hide_border=true&hide=issues,stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=highcontrast&hide_rank=true"
           alt="Gabriel Salvador's GitHub statistics" />
     </a>
 </div>
