@@ -15,7 +15,6 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cs,js,py,ts,dotnet,nodejs" />
     <img src="https://skillicons.dev/icons?i=postgres" />
-    <img width="10" />
     <img src="/images/mssql.svg" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,pnpm" />
     <img src="https://skillicons.dev/icons?i=nextjs,react,angular" />
